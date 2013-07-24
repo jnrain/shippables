@@ -1,6 +1,21 @@
 {
-  "versionCode": 21,
-  "version": "0.2.1",
-  "description": "placeholder",
-  "migrated": 0
+  "channels": {
+    "stable": 21,
+    "next": 30
+  },
+
+  "versions": {
+    "21": {
+      "name": "0.2.1",
+      "codename": "",
+      "desc": "placeholder for 0.2.1",
+      "migrated": 0
+    },
+    "30": {
+      "name": "0.3",
+      "codename": "",
+      "desc": "placeholder for 0.3",
+      "migrated": 0
+    }
+  }
 }
