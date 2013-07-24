@@ -2,11 +2,9 @@
   "_V": 1,
   "channels": {
     "stable": {
-      "name": "\u7a33\u5b9a\u7248",
       "latest": 21
     },
     "next": {
-      "name": "\u62a2\u9c9c\u7248",
       "latest": 30
     }
   },
