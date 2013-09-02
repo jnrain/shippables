@@ -2,7 +2,7 @@
   "_V": 1,
   "channels": {
     "stable": {
-      "latest": 21
+      "latest": 30
     },
     "next": {
       "latest": 30
@@ -18,8 +18,8 @@
     },
     "30": {
       "name": "0.3",
-      "codename": "",
-      "desc": "placeholder for 0.3",
+      "codename": "筚路蓝缕",
+      "desc": "第一个能自动更新的版本",
       "migrated": 0
     }
   }
