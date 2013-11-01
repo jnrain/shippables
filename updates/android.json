@@ -2,10 +2,10 @@
   "_V": 1,
   "channels": {
     "stable": {
-      "latest": 30
+      "latest": 40
     },
     "next": {
-      "latest": 30
+      "latest": 40
     }
   },
 
@@ -20,6 +20,12 @@
       "name": "0.3",
       "codename": "筚路蓝缕",
       "desc": "第一个能自动更新的版本",
+      "migrated": 0
+    },
+    "40": {
+      "name": "0.4",
+      "codename": "雁字横秋",
+      "desc": "应用界面全新设计, 应用内注册和完全的自动登陆, 一些稳定性优化",
       "migrated": 0
     }
   }
